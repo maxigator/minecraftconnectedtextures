@@ -1,0 +1,7 @@
+{
+    "parent": "block/ctm",
+    "textures": {
+        "all": "block/smooth_stone",
+        "base": "block/borderless_smooth_stone"
+    }
+}
