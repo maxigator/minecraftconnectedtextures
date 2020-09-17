@@ -1,0 +1,7 @@
+{
+    "parent": "block/ctm",
+    "textures": {
+        "all": "block/glass",
+        "base": "block/borderless_glass"
+    }
+}
